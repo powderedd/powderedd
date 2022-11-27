@@ -9,3 +9,4 @@ i dunno what to put here, you should check out my site [powdered.ml](http://powd
 <img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
 <img src="https://img.shields.io/badge/lua-%232c2d72.svg?logo=lua&logoColor=white&style=for-the-badge" alt="Lua" />
 <img src="https://img.shields.io/badge/Notepad%2B%2B-darkgreen.svg?logo=notepadplusplus&logoColor=white&style=for-the-badge" alt="Notepad++" />
+<img src="https://img.shields.io/badge/visual%20studio-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
